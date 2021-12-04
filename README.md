@@ -11,3 +11,17 @@ Computer Science | 3D | eSports
   - like example 15999 hours in CS and 9000 in CS:GO , LVL 10, GE, coach etc - 
 - below is a history tree of my origin and progress so far
 - incorperate sometimes tile of aims for the future? 
+
+________________________________________
+Mihails M
+[] 9000 hours, GE, faceit 10, coach
+________________________________________
+| |
+| |
+|  ===== Merged with metafy.gg
+| |
+| |
+|  ===== 2nd place in N event
+| |
+| |
+________________________________________
