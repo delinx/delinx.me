@@ -1,0 +1,2 @@
+# delinx.me
+Personal Website
