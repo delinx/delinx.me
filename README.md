@@ -12,8 +12,12 @@ Computer Science | 3D | eSports
 - below is a history tree of my origin and progress so far
 - incorperate sometimes tile of aims for the future? 
 
+Example of eSports tab, similar looking ones for 3D and Computer Science
 ```
 [Computer Science]     [3D]    [eSports]
+                                   |
+                                  \|/
+                                   '
 ________________________________________
 Mihails M
 [] 9000 hours, GE, faceit 10, coach
