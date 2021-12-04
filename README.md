@@ -13,6 +13,7 @@ Computer Science | 3D | eSports
 - incorperate sometimes tile of aims for the future? 
 
 ```
+[Computer Science]     [3D]    [eSports]
 ________________________________________
 Mihails M
 [] 9000 hours, GE, faceit 10, coach
