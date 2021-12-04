@@ -12,6 +12,7 @@ Computer Science | 3D | eSports
 - below is a history tree of my origin and progress so far
 - incorperate sometimes tile of aims for the future? 
 
+```
 ________________________________________
 Mihails M
 [] 9000 hours, GE, faceit 10, coach
@@ -25,3 +26,4 @@ ________________________________________
 | |
 | |
 ________________________________________
+```
